@@ -1,4 +1,5 @@
 ## questo è un titolo
+
 Prodotto|Q.tà
 --------|----
 Legno|10
@@ -13,3 +14,17 @@ Stop|10
 
 - Elemento 1
 - Elemento 2
+# fffff
+
+| Colonna 1 | Colonna 2 |
+|    :--    |    --:    |
+|  testo 1  |  testo 2  |
+[Caption tabella][identificativo]
+
+Nome|Cognome |Indirizzo
+--------|- | -----
+Lucia|Pannuti | Largo Salvatore Di Giacomo, 16
+Claudia|Massaccesi | Viale delle roselline nere, 34
+Rita|Lalluccini | Via dei Gatti randagi e neri, 56
+Stop|10
+  |  
