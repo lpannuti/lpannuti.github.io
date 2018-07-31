@@ -32,3 +32,5 @@ Rita|Lalluccini | Via dei Gatti randagi e neri, 56
   [06cd618c]: http://www.umbriageo.regione.umbria.it/resources/documentazione/Asita%202007%20Il%20Catasto%20unico%20delle%20attivit%C3%A0%20produttive%20della%20Regione%20Umbria.pdf "questo è il titolo del documento"
 
 ![felini che passione!!](Pictures\cuccioli.jpg)
+
+# fffff
